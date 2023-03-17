@@ -1,5 +1,4 @@
 ![Converter image](./converter.png)<br>
-Idea from [here](https://github.com/florinpop17/app-ideas)<br>
 Demo: [CodePen](https://codepen.io/lufeltz/pen/mdGLMyG)
 
 # Bin2Dec
