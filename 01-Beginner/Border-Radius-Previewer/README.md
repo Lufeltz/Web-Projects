@@ -1,3 +1,6 @@
+![Converter image](./border-radius-previewer.png)<br>
+Demo: [CodePen](https://codepen.io/lufeltz/pen/ZEMjzrv)
+
 # Border-radius Previewer
 
 **Tier:** 1-Beginner
