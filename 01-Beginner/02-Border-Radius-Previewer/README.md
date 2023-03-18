@@ -1,5 +1,5 @@
 ![Converter image](./border-radius-previewer.png)<br>
-Demo: [CodePen](https://codepen.io/lufeltz/pen/ZEMjzrv)
+Demo: [CodePen](https://codepen.io/lufeltz/full/ZEMjzrv)
 
 # Border-radius Previewer
 
