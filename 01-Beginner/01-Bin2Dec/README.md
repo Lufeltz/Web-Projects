@@ -1,5 +1,5 @@
 ![Converter image](./converter.png)<br>
-Demo: [CodePen](https://codepen.io/lufeltz/pen/mdGLMyG)
+Demo: [CodePen](https://codepen.io/lufeltz/full/mdGLMyG)
 
 # Bin2Dec
 
