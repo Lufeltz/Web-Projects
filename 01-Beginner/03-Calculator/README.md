@@ -1,3 +1,6 @@
+![Converter image](./calculator.png)<br>
+Demo: [CodePen](https://codepen.io/lufeltz/full/xxaaVGL)
+
 # Calculator
 
 **Tier:** 1-Beginner
