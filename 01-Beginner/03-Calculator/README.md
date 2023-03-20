@@ -1,4 +1,6 @@
-![Converter image](./calculator.png)<br>
+<p align="center">
+  <img src="./calculator.png" />
+</p>
 Demo: [CodePen](https://codepen.io/lufeltz/full/xxaaVGL)
 
 # Calculator
