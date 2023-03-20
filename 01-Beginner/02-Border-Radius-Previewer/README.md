@@ -1,5 +1,9 @@
-![Converter image](./border-radius-previewer.png)<br>
-Demo: [CodePen](https://codepen.io/lufeltz/full/ZEMjzrv)
+<p align="center">
+  <img src="./border-radius-previewer.png" />
+</p>
+
+Demo: <a href="https://codepen.io/lufeltz/full/ZEMjzrv">CodePen</a>
+
 
 # Border-radius Previewer
 
