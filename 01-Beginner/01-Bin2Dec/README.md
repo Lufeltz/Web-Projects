@@ -1,5 +1,9 @@
-![Converter image](./converter.png)<br>
-Demo: [CodePen](https://codepen.io/lufeltz/full/mdGLMyG)
+<p align="center">
+  <img src="./converter.png" />
+</p>
+
+Demo: <a href="https://codepen.io/lufeltz/full/mdGLMyG">CodePen</a>
+
 
 # Bin2Dec
 
