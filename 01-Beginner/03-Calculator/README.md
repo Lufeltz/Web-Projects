@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./calculator.png" />
 </p>
-Demo: [CodePen](https://codepen.io/lufeltz/full/xxaaVGL)
+Demo: <a href="https://codepen.io/lufeltz/full/xxaaVGL">CodePen</a>
 
 # Calculator
 
